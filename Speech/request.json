@@ -1,0 +1,13 @@
+{
+  "config": {
+    "encoding":"FLAC",
+    "sampleRateHertz": 16000,
+    "languageCode":"en-US",
+    "speechContexts": {
+      "phrases":["socks"]
+     }
+  },
+  "audio":{
+    "uri":"gs://india-devrel-experimental.appspot.com/SolveForIndia/brooklyn.flac"
+  }
+}

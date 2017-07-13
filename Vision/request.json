@@ -1,0 +1,17 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "gs://india-devrel-experimental.appspot.com/SolveForIndia/fight.jpg"
+        }
+      },
+      "features": [
+        {
+          "type" : "LABEL_DETECTION"
+        }
+        
+      ]
+    }
+  ]
+}
